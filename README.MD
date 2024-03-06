@@ -1,8 +1,5 @@
 # Template repository default
 
-Signing test
-
-Auth test
 
 The root directory has a general purpose .gitignore
 
