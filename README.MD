@@ -1,4 +1,4 @@
-#Template repository default
+# Template repository default
 
 
 The root directory has a general purpose .gitignore
